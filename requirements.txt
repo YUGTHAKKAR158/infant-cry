@@ -1,0 +1,21 @@
+# Core Scientific & Audio Processing
+numpy
+scipy
+pandas
+librosa
+soundfile
+tqdm
+
+# Machine Learning & Deep Learning
+scikit-learn
+tensorflow
+joblib
+
+# Visualization
+matplotlib
+
+# Web Dashboard (FastAPI Backend)
+fastapi
+uvicorn
+python-multipart
+pydantic

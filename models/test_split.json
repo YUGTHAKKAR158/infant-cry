@@ -1,0 +1,1194 @@
+[
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0176_25n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0199_280n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0166_250n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1109_f896b69d-624.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0632_A123AD65-38D.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\73n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0013_0c8f14a9-699.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0226_89e783af-dea.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\192n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0345_c10e2b0f-0cb.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0275_56n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0227_305n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\300n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0846_459c3f85-571.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\66n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\discomfort\\discomfort_0043_1309B82C-F14.wav",
+    "label": 3
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0878_5E01DC60-1DE.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0553_50DC5FBC-AC9.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\242n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0194_789d2553-cbf.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\tired\\tired_0034_C5127741-589.wav",
+    "label": 4
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\burping\\burping_0006_ecc080a5-012.wav",
+    "label": 2
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0364_c6fd9d60-0fa.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0151_5b49f19f-a3a.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0452_eccb4617-837.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\88n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0384_cda99fcf-d01.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0130_459c3f85-571.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0763_10A40438-09A.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1044_c7fef089-4a6.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\burping\\burping_0011_79FF400A-97E.wav",
+    "label": 2
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0123_415d69b4-6d8.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0066_160n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\147n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\71n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0391_cecd525b-18f.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0826_3bb2445a-9ae.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0488_045C5483-69E.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\126n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0540_3BF71DAF-2A9.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0201_282n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0232_8c66887c-825.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\279n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0034_131n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\tired\\tired_0045_F15D825B-F86.wav",
+    "label": 4
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1115_fa8620d3-e7d.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0646_AEA8AE04-D00.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1074_e0717ce2-da2.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\253n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0973_999bf14b-e41.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1025_b9d0daab-43c.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\tired\\tired_0031_C421C6FE-DFE.wav",
+    "label": 4
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\122n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1021_B456CE9D-CBD.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0159_602b06a7-31f.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0205_7f6ce072-2f8.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0991_a40b9b8d-e4b.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0848_46002244-730.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1118_FAE74A94-996.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0690_E13F017B-1BD.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\320n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0379_caaf0706-1db.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1122_FF2CD2F6-404.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0125_213n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0034_177dc72e-d0f.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\tired\\tired_0053_F15D825B-F86.wav",
+    "label": 4
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0592_7A864194-4B6.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0951_8c920fd0-fa9.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1060_d6cda191-496.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1016_B2A105BB-347.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1029_be21ef2a-a41.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\belly_pain\\belly_pain_0030_643D64AD-B71.wav",
+    "label": 1
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0046_142n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1059_D54D9C2A-56E.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0742_02c3b725-26e.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0680_DB95BF4A-E3E.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0040_1a95e63b-aaf.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0509_10A40438-09A.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\189n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\belly_pain\\belly_pain_0010_0D1AD73E-4C5.wav",
+    "label": 1
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0769_1259bcad-230.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0064_24f94b49-c8b.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0624_9CFD61B9-BF1.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\tired\\tired_0018_eea17285-4ab.wav",
+    "label": 4
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0463_efd13da0-d40.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\173n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0014_113n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\95n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0323_9n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\52n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0658_C249BCDD-0F6.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\discomfort\\discomfort_0028_79FF400A-97E.wav",
+    "label": 3
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\tired\\tired_0035_CF7F6316-019.wav",
+    "label": 4
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0747_04c3386b-e6b.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0337_bb52adc3-851.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\296n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\265n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0026_1259bcad-230.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0797_2a0e6a88-b04.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\14n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0173_257n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0264_46n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\155n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\165n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0725_F6C6D3EE-F13.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\tired\\tired_0068_B2AABCE0-1F6.wav",
+    "label": 4
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\9n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0373_ca0ee0f9-5aa.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\discomfort\\discomfort_0053_ae5a462b-542.wav",
+    "label": 3
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0975_999bf14b-e41.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\tired\\tired_0073_C5127741-589.wav",
+    "label": 4
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0893_69374818-7b7.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0047_143n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\discomfort\\discomfort_0006_a40b9b8d-e4b.wav",
+    "label": 3
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0952_8c920fd0-fa9.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0206_7fd72d70-07c.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1032_c10e2b0f-0cb.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0081_174n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\312n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\belly_pain\\belly_pain_0027_549a46d8-9c8.wav",
+    "label": 1
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\discomfort\\discomfort_0048_79FF400A-97E.wav",
+    "label": 3
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\254n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\belly_pain\\belly_pain_0028_643D64AD-B71.wav",
+    "label": 1
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\31n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0085_30c2cee4-b68.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0153_239n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0142_229n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\315n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0564_5728DDD6-149.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0385_cde108d0-62c.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0293_72n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0271_52n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1034_C249BCDD-0F6.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\114n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\159n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0038_135n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0683_DBA77EDC-D45.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\303n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0274_55n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0122_40a4c760-fac.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0015_114n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1012_ae5f103b-5fe.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\304n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1101_F4A0C710-AC2.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0648_B270597F-6C5.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\68n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0121_40a4c760-fac.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0821_3bb2445a-9ae.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\tired\\tired_0077_d5abedab-9ed.wav",
+    "label": 4
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\tired\\tired_0020_1309B82C-F14.wav",
+    "label": 4
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0164_249n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1095_F24DE44B-762.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0036_177dc72e-d0f.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0640_AA48A016-A2C.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\burping\\burping_0010_5B416CE8-259.wav",
+    "label": 2
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0223_301n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0610_868D4615-B63.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0421_d85d0128-3f7.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0623_990DE219-FCD.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0791_24f2a4e1-716.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0438_e37c323c-0ed.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0146_549a46d8-9c8.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\discomfort\\discomfort_0027_79FF400A-97E.wav",
+    "label": 3
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0663_C421C6FE-DFE.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0681_DB95BF4A-E3E.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0182_265n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\discomfort\\discomfort_0018_11417AC2-DCC.wav",
+    "label": 3
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0103_3c0b4e07-33e.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\discomfort\\discomfort_0039_11417AC2-DCC.wav",
+    "label": 3
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0508_10A40438-09A.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0087_31e785de-b0c.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0403_d67dba7b-017.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\280n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0168_252n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0639_AA48A016-A2C.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0288_a40b9b8d-e4b.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0976_9aa8bac5-eeb.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0960_8f4dbf5a-b50.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0779_1b381a1e-88a.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\tired\\tired_0060_06c4cfa2-7fa.wav",
+    "label": 4
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0838_40a4c760-fac.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0150_5afc6a14-a9d.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0138_225n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\7n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0687_DCB33551-F9B.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\142n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0241_8f4dbf5a-b50.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0161_602b06a7-31f.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0870_549a46d8-9c8.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\228n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0778_1abb2260-a65.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\27n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0671_D2E9D2AD-67E.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0686_DCB33551-F9B.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\67n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1042_c6fd9d60-0fa.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0300_79n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0219_86c2b87a-ae7.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0118_207n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0253_92d08bbe-553.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0642_AB0BF923-F12.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0095_3bb2445a-9ae.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1077_e1e640e2-78c.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0967_92d08bbe-553.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\201n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0119_40a4c760-fac.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0184_267n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0297_aaa57dbd-7b8.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\281n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\33n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0387_cecd525b-18f.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0641_AA48A016-A2C.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0410_d6cda191-496.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0049_145n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0084_177n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0474_f83af5c2-afa.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0242_8f4dbf5a-b50.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0279_9fe37482-6a6.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0244_320n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\discomfort\\discomfort_0057_f5b29377-7cd.wav",
+    "label": 3
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\53n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0406_d6cda191-496.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1017_B327333E-2DE.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\274n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\87n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0020_101c6709-39f.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0163_248n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0130_218n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0460_edb5924c-07b.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0310_88n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0892_67414C5E-0EB.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0651_B327333E-2DE.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0840_40a4c760-fac.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0183_70d30513-0ec.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0207_80130d3a-ceb.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0216_852fdfcd-a2e.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0415_d6cda191-496.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\306n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0378_ca876169-c07.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0898_70d30513-0ec.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0550_505CA6B7-D70.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\belly_pain\\belly_pain_0036_69BDA5D6-027.wav",
+    "label": 1
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0267_999bf14b-e41.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0857_4D43D6CD-C08.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0766_10A40438-09A.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1063_d6cda191-496.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\burping\\burping_0017_5afc6a14-a9d.wav",
+    "label": 2
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0040_137n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0419_d79affbc-f7b.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1107_F6C6D3EE-F13.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0213_293n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0143_549a46d8-9c8.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0347_c42e76b9-a4c.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0230_8c2a1f03-07f.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1116_fa8620d3-e7d.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0612_8C13A1F9-62C.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1069_DB95BF4A-E3E.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0358_c6fd9d60-0fa.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0441_e37c323c-0ed.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0947_8c2a1f03-07f.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0166_64acb345-a61.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1082_e4051e62-d21.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0868_549a46d8-9c8.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0698_EC2E1160-BC3.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\231n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\239n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0074_168n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0609_85FAB169-4DC.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\belly_pain\\belly_pain_0021_643D64AD-B71.wav",
+    "label": 1
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0202_7c01e8b7-f3d.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\89n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\tired\\tired_0062_1309B82C-F14.wav",
+    "label": 4
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0469_f39330f7-a3d.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0480_fa8620d3-e7d.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0197_7b23d26e-6f9.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1097_F2F97740-D63.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0285_65n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0619_9641D2D5-7D9.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\255n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0080_3030d0e9-0c9.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0076_16n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1051_D18A30C6-437.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0263_45n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0669_D1CB71F9-EF7.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0970_96986c8b-998.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\238n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0157_242n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0709_EEC0D4CB-EA1.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_1003_aaa57dbd-7b8.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0293_a7b13b65-da2.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0897_7060a4f6-4c0.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0200_7c01e8b7-f3d.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0647_B0D9116D-8FA.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\tired\\tired_0013_d2d67a70-dc2.wav",
+    "label": 4
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0052_148n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\hungry\\hungry_0699_ECADF9A2-524.wav",
+    "label": 0
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\non_baby_cry_0181_264n.wav",
+    "label": 5
+  },
+  {
+    "path": "D:\\Projects\\MinorProject\\data\\processed\\non_baby_cry\\162n.wav",
+    "label": 5
+  }
+]

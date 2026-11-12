@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Infant Cry Diagnostic System</title>
+  <link rel="stylesheet" href="/static/css/dashboard.css">
+</head>
+<body>
+  <div class="container">
+    
+    <!-- Top Header -->
+    <header>
+      <div class="title-area">
+        <h1>Infant Cry Diagnostic System</h1>
+        <p>Acoustic Analysis & Decision Support Engine (FRTA + DeepSVM)</p>
+      </div>
+      <div class="status-pill">
+        <span class="dot"></span>
+        <span>DeepSVM Active (88.6% Accuracy)</span>
+      </div>
+    </header>
+
+    <!-- Main 2-Column Grid -->
+    <div class="grid">
+      
+      <!-- Sidebar Controls -->
+      <div class="sidebar">
+        
+        <div class="card">
+          <div class="card-title">Audio Input</div>
+          
+          <!-- Dropzone -->
+          <div class="upload-box" id="dropzone">
+            <p id="upload-status-title">Upload Audio File</p>
+            <span id="upload-status-sub">Drag and drop WAV, MP3, or CAF file</span>
+            <input type="file" id="file-input" accept="audio/*" style="display:none;">
+          </div>
+
+          <!-- Active File Status Card -->
+          <div class="active-file-card" id="active-file-card">
+            <div class="active-file-info">
+              <div class="active-file-icon">🎵</div>
+              <div class="active-file-meta">
+                <div class="active-file-name" id="active-file-name">No file loaded</div>
+                <div class="active-file-tag" id="active-file-tag">Select a sample or drop a file</div>
+              </div>
+            </div>
+            <audio id="audio-player" controls style="width: 100%; margin-top: 10px; display: none; height: 34px;"></audio>
+          </div>
+
+          <!-- Preset Audio Samples -->
+          <div style="margin-top: 20px;">
+            <div class="card-title" style="font-size: 12px; color: var(--text-muted);">Sample Audio Clips</div>
+            <div class="sample-list" id="sample-list">
+              <!-- Dynamically populated from JS -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Model Info Card -->
+        <div class="card" style="margin-top: 24px;">
+          <div class="card-title">Model Specifications</div>
+          <div style="display: flex; flex-direction: column; gap: 8px; font-size: 12px; color: var(--text-muted);">
+            <div style="display: flex; justify-content: space-between;">
+              <span>Architecture</span>
+              <strong style="color: var(--text);">FRTA + iNCA + DeepSVM</strong>
+            </div>
+            <div style="display: flex; justify-content: space-between;">
+              <span>Sample Rate</span>
+              <strong style="color: var(--text);">16,000 Hz</strong>
+            </div>
+            <div style="display: flex; justify-content: space-between;">
+              <span>Frame Window</span>
+              <strong style="color: var(--text);">25 ms (40% Overlap)</strong>
+            </div>
+            <div style="display: flex; justify-content: space-between;">
+              <span>TinyML ESP32 Size</span>
+              <strong style="color: var(--text);">8.5 KB (INT8)</strong>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Main Results Panel -->
+      <div class="main-content">
+        
+        <div class="card">
+          
+          <!-- Primary Diagnosis Header -->
+          <div class="result-header">
+            <div>
+              <div class="result-label">Primary Diagnosis</div>
+              <div class="result-name" id="diag-title">Selecting sample...</div>
+              <div class="file-source-badge" id="source-badge">
+                <span>📄 Active Signal:</span> <strong id="source-filename" style="color: var(--text-primary); margin-left: 4px;">None</strong>
+              </div>
+            </div>
+            <div class="confidence-box">
+              <div class="confidence-num" id="conf-val">0%</div>
+              <div class="confidence-txt">Confidence Score</div>
+            </div>
+          </div>
+
+          <!-- Clinical Care Advice -->
+          <div class="advice-box" id="action-text">
+            Select or upload an infant audio recording to view diagnostic classification and recommendations.
+          </div>
+
+          <!-- Multi-Class Probabilities -->
+          <div class="card-title" style="margin-top: 28px;">Cause Probabilities</div>
+          
+          <div class="bar-group">
+            
+            <div class="bar-item">
+              <div class="bar-meta">
+                <span class="bar-name">Hungry</span>
+                <span class="bar-val" id="val-hungry">0.0%</span>
+              </div>
+              <div class="bar-track">
+                <div class="bar-fill" id="fill-hungry"></div>
+              </div>
+            </div>
+
+            <div class="bar-item">
+              <div class="bar-meta">
+                <span class="bar-name">Belly Pain / Colic</span>
+                <span class="bar-val" id="val-belly_pain">0.0%</span>
+              </div>
+              <div class="bar-track">
+                <div class="bar-fill" id="fill-belly_pain"></div>
+              </div>
+            </div>
+
+            <div class="bar-item">
+              <div class="bar-meta">
+                <span class="bar-name">Burping</span>
+                <span class="bar-val" id="val-burping">0.0%</span>
+              </div>
+              <div class="bar-track">
+                <div class="bar-fill" id="fill-burping"></div>
+              </div>
+            </div>
+
+            <div class="bar-item">
+              <div class="bar-meta">
+                <span class="bar-name">Discomfort</span>
+                <span class="bar-val" id="val-discomfort">0.0%</span>
+              </div>
+              <div class="bar-track">
+                <div class="bar-fill" id="fill-discomfort"></div>
+              </div>
+            </div>
+
+            <div class="bar-item">
+              <div class="bar-meta">
+                <span class="bar-name">Tired / Fatigue</span>
+                <span class="bar-val" id="val-tired">0.0%</span>
+              </div>
+              <div class="bar-track">
+                <div class="bar-fill" id="fill-tired"></div>
+              </div>
+            </div>
+
+            <div class="bar-item">
+              <div class="bar-meta">
+                <span class="bar-name">Non-Baby Audio</span>
+                <span class="bar-val" id="val-non_baby_cry">0.0%</span>
+              </div>
+              <div class="bar-track">
+                <div class="bar-fill" id="fill-non_baby_cry"></div>
+              </div>
+            </div>
+
+          </div>
+
+          <!-- Spectrogram & Feature Stats -->
+          <div class="card-title" style="margin-top: 32px;">Spectrogram & Acoustic Features</div>
+
+          <div class="spectrogram-box">
+            <img id="spectrogram-img" src="" alt="Spectrogram View">
+          </div>
+
+          <div class="stats-row">
+            <div class="stat-card">
+              <div class="stat-title">Fractal Dimension (Df)</div>
+              <div class="stat-num" id="stat-df">0.00</div>
+            </div>
+            <div class="stat-card">
+              <div class="stat-title">Spectral Centroid</div>
+              <div class="stat-num" id="stat-cent">0 Hz</div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <footer>
+      Infant Cry Diagnostic System • Non-invasive Acoustic Decision Support
+    </footer>
+
+  </div>
+
+  <script src="/static/js/dashboard.js"></script>
+</body>
+</html>

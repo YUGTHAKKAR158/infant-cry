@@ -1,0 +1,60 @@
+# ==============================================================================
+# Git Ignore Configuration - Baby Cry Classification & Acoustic Intelligence
+# ==============================================================================
+
+# 1. Virtual Environments (NEVER push to GitHub - contains machine-specific binaries)
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# 2. Datasets & Raw Audio (600+ MB; documented in docs/dataset.md)
+# Ignore only the root /data/ folder (containing .wav audio files)
+/data/
+
+# 3. Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 4. Web App Runtime & Temporary Uploads
+app/temp/*
+!app/temp/.gitkeep
+app/static/temp/*
+!app/static/temp/.gitkeep
+*.tmp
+*.log
+
+# 5. Secrets, Credentials & Environment Files (Security protection)
+.env
+.env.*
+*.env
+*.pem
+*.key
+secrets.json
+credentials.json
+client_secrets.json
+
+# 6. IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 7. Operating System Metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
